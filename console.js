@@ -1,0 +1,2 @@
+//első
+console.log("első");
